@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue ;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-style: italic;
+}
